@@ -1,5 +1,3 @@
-package ict373assignment2;
-
 
 import javax.swing.*; // import package
 import java.awt.*;// import package
