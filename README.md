@@ -5,11 +5,11 @@ Family management program is a program that will act as family tree management s
 
 This program can perform following functions.
 
-Create new tree
-Edit tree information
-Add more relatives (Father, Mother, Spouse, Children) into current tree.
-Save tree as Binary file
-Load other tree file that is saved as Binary file.
+- Create new tree
+- Edit tree information
+- Add more relatives (Father, Mother, Spouse, Children) into current tree.
+- Save tree as Binary file
+- Load other tree file that is saved as Binary file.
 
 
 ## How to run the program
